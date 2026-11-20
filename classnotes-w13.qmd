@@ -1,0 +1,55 @@
+---
+title: "Class notes for Week 13"
+author: "Georgia Monjarrez"
+date: "2026-11-19"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 1
+    toc-location: right
+    embed-resources: true
+    output-file: index.html
+execute:
+  freeze: auto
+---
+
+# Overview of Week 13 through Week 15
+
+Class focused on reviewing group surveys in Qualtrics, preparing for the upcoming CEP presentations, and working with structural equation modeling (SEM) in Positron.
+
+# Review Qualtrics #1–2
+
+Dr Jung reviewed surveys created by different groups and discussed errors groups encountered. The review emphasized checking how the survey works from the respondent’s perspective.
+
+Reminders for checking our group’s survey:
+
+- Keep questions clear and avoid asking two things in one question.
+- Make sure response choices match the question and use consistent scales.
+- Test any display or skip logic so respondents see the appropriate questions.
+- Preview the full survey, including different answer paths, before distributing it.
+- Check required-response settings and whether the exported data will be usable for analysis.
+
+The main takeaway is to test the survey as a participant instead of only reviewing it in the editor. Problems in the survey can create problems in the dataset later.
+
+# Presentation
+
+Dr Jung discussed the upcoming CEP presentation, expectations, and which groups will present on each day.
+
+Preparation reminders:
+
+- Explain the project’s purpose and the question the group is trying to answer.
+- Connect the survey and analysis plan to the project objective.
+- Organize slides so the audience can follow the project’s progress.
+- Coordinate speaking roles and practice transitions between group members.
+- Check the posted schedule and presentation guidelines for our group’s assigned date and exact requirements.
+
+# SEM
+
+SEM was demonstrated in Positron using an R script, including model specification and plots with semPlot.
+
+# Publication Links
+
+- [GitHub repository](https://github.com/gmonjarrez/class-notes-2026-11-19)
+- [Published HTML notes](https://gmonjarrez.github.io/class-notes-2026-11-19/)
+- [Editable Quarto file](https://github.com/gmonjarrez/class-notes-2026-11-19/blob/main/classnotes-w13.qmd)
